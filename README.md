@@ -1,5 +1,7 @@
 # 🌐 HushPay
 
+CA pump.fun  : 7oq17eWGbzg3EF1kmbqNsYA45MRPfqcaDRa4tAHtpump
+
 > Private SMS payments on any phone — no app, no internet.  
 > Powered by ZK proofs on Solana.
 
